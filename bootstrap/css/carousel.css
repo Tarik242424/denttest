@@ -38,7 +38,9 @@ body {
 	
   }
   
-  
+  .text-primary {
+    color: #E49ABB !important;
+}
   
   /*
   .carousel-item > img {
